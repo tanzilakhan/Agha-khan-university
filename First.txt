@@ -3,4 +3,5 @@ first file changes
 Online changes
 
 final changes
- for smart git
+ for smart 
+new
